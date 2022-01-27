@@ -1,14 +1,13 @@
 #add implementaion
 def add(x.y):
-	return x+y
+	pass
 #subtract implementaion
 def subtract(x.y):
-	return  x-y #on master branch
+	pass
 #multiply implementaion
 def multiply(x.y):
-	return x*y # on bug456
-#divide implementaion
+	pass
+
 def divide(x.y):
-	if(x/y==0)
-		return error
+	pass
 
